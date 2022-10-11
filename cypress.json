@@ -1,0 +1,5 @@
+{
+    "testFiles": "**/*.feature",
+    "chromeWebSecurity": true,
+    "baseUrl": "https://demoqa.com/text-box"
+  }
